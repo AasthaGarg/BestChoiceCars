@@ -2,9 +2,12 @@
 Home screen enables the customer to search for the cars based on brand or price range. Customer clicks on search cars by brand or search cars by price hyperlinks to find and book the cars.
 
 ## Technologies mandatorily that needs to be used:
-### •	Languages and Frameworks:  Spring Boot, JAX-RS & Spring Data 
-### •	Databases :  Any In-Memory DB or RDBMS of your choice
-### •	Build Tool: Use and implement it as a Maven based project
+### •	Languages and Frameworks:  
+Spring Boot, JAX-RS & Spring Data 
+### •	Databases :  
+Any In-Memory DB or RDBMS of your choice
+### •	Build Tool: 
+Use and implement it as a Maven based project
 
 ## Home Page
 ![image](https://user-images.githubusercontent.com/42388976/113026785-0dadec00-91a7-11eb-864f-bac8f6885c1d.png)
