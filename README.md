@@ -2,7 +2,8 @@
 Home screen enables the customer to search for the cars based on brand or price range. Customer clicks on search cars by brand or search cars by price hyperlinks to find and book the cars.
 
 ## Home Page
-![image](https://user-images.githubusercontent.com/42388976/113025746-ec003500-91a5-11eb-9ee5-270d6ab183b5.png)
+![image](https://user-images.githubusercontent.com/42388976/113026785-0dadec00-91a7-11eb-864f-bac8f6885c1d.png)
+
 
 ## Search Car ByBrand Page
 ![image](https://user-images.githubusercontent.com/42388976/113025920-1d790080-91a6-11eb-9d2d-1e9b13098ea1.png)
